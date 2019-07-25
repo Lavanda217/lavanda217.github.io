@@ -56,7 +56,7 @@
 }
 .primary_header {
 	width: 100%;
-	background-color: #f4e3e5 ;
+	background-color: #52bad5;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	clear: left;
@@ -171,7 +171,7 @@
 	font-style: normal;
 	font-family: "Source Sans Pro";
 	text-align: center;
-	color: #070707;
+	color: #FFFFFF;
 	letter-spacing: 2px;
 }
 .placeholder {
@@ -422,7 +422,8 @@ body {
 }
 }
 
-
+@media (min-width: 1001px) {
+}
 .thumbnail {
 	width: 100px;
 	border-radius: 200px;
