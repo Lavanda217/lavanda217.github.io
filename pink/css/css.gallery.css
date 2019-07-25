@@ -24,7 +24,7 @@ header {
 	border-bottom: 1px solid  hsla(351,61%,88%,1.00) ;
 }
 .logo {
-	color: #fff;
+	color: black;
 	font-weight: bold;
 	text-align: undefined;
 	width: 10%;
@@ -32,6 +32,7 @@ header {
 	margin-top: 15px;
 	margin-left: 25px;
 	letter-spacing: 4px;
+	
 }
 nav {
 	float: right;
