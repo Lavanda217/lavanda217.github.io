@@ -74,7 +74,7 @@ ul li:hover a {
 	color: #f4e3e5;
 }
 .logo {
-	color: #fff;
+	color: black;
 	font-weight: bold;
 	margin-left: auto;
 	letter-spacing: 4px;
@@ -83,6 +83,7 @@ ul li:hover a {
 	padding-top: 15px;
 	line-height: 2em;
 	font-size: 22px;
+	background: #f4e3e5;
 }
 .hero_header {
 	color: #FFFFFF;
@@ -195,7 +196,7 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-color: pink;
+	background-color: #f4e3e5 ;
 }
 .profile {
 	width: 50%;
