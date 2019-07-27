@@ -52,11 +52,11 @@
 }
 .container .columns h4 {
 	text-align: center;
-	color: #01B2D1;
+	color: #f4e3e5;
 }
 .primary_header {
 	width: 100%;
-	background-color: #52bad5;
+	background-color:#f4e3e5 ;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	clear: left;
@@ -171,7 +171,7 @@
 	font-style: normal;
 	font-family: "Source Sans Pro";
 	text-align: center;
-	color: #FFFFFF;
+	color: #070707;
 	letter-spacing: 2px;
 }
 .placeholder {
