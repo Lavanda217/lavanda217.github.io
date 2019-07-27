@@ -43,10 +43,11 @@ nav {
 header nav ul {
 	list-style: none;
 	float: right;
+	color: hsla(0,0%,3%,1);
 }
 nav ul li {
 	float: left;
-	color: #FFFFFF;
+	color: #070707;
 	font-size: 14px;
 	text-align: left;
 	margin-right: 25px;
@@ -55,11 +56,11 @@ nav ul li {
 	transition: all 0.3s linear;
 }
 ul li a {
-	color: #FFFFFF;
+	color: black;
 	text-decoration: none;
 }
 ul li:hover a {
-	color: lightpink;
+	color: #070707;
 }
 .hero_header {
 	color: #FFFFFF;
