@@ -49,6 +49,7 @@
 .row .columns p {
 	padding-left: 10%;
 	padding-right: 10%;
+	color: #070707;
 }
 .container .columns h4 {
 	text-align: center;
@@ -124,7 +125,7 @@
 	line-height: 24px;
 	margin-top: 30px;
 	margin-bottom: 15px;
-	color: #B3B3B3;
+	color: #070707;
 }
 .right_article {
 	width: 40%;
