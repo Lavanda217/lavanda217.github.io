@@ -230,8 +230,7 @@ body {
 	display: inline-block;
 	width: 100%;
 	background-color: #FFFFFF;
-	/* [disabled]min-width: 400px;
-*/
+
 	padding-bottom: 35px;
 	padding-top: 0px;
 	margin-top: -5px;
@@ -276,7 +275,10 @@ body {
 	height: auto;
 	width: 100%;
 	text-align: center;
+	
 }
+	
+	
 .secondary_header {
 	margin-top: 0px;
 	margin-right: 0px;
